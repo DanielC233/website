@@ -1,0 +1,101 @@
+.landing-frame,
+.landing-frame * {
+  box-sizing: border-box;
+}
+.landing-frame {
+  background: #192cd9;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 622px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 927px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1173px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 280px;
+  top: 364px;
+  width: 845px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 467px;
+  width: 988px;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 586px;
+  box-shadow: 0px 4px 10px 5px rgba(40, 2, 2, 0.65);
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 653px;
+  top: 600px;
+}

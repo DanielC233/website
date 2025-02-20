@@ -1,0 +1,106 @@
+.contact-frame,
+.contact-frame * {
+  box-sizing: border-box;
+}
+.contact-frame {
+  background: #192cd9;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 622px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 927px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1173px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 174px;
+  width: 1240px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 688px);
+  top: 300px;
+  width: 988px;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 65px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 381px;
+  width: 567px;
+  height: 53px;
+}
+.ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 65px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 553px;
+  width: 1134px;
+  height: 105px;
+}

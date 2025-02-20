@@ -1,0 +1,116 @@
+.about-frame,
+.about-frame * {
+  box-sizing: border-box;
+}
+.about-frame {
+  background: #192cd9;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 105px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 622px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 927px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1173px;
+  top: 64px;
+  width: 300px;
+  height: 88px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 174px;
+  width: 1240px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 688px);
+  top: 286px;
+  width: 988px;
+}
+.semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 560px;
+  width: 487px;
+  height: 66px;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 35px;
+  top: 666px;
+  width: 567px;
+  height: 53px;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 35px;
+  top: 759px;
+  width: 1134px;
+  height: 105px;
+}
